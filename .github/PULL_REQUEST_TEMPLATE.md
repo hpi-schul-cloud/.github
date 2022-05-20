@@ -29,7 +29,7 @@ Base links to copy
   Short notice if a ticket exists, more detailed if not
 -->
 
-## Datasecurity <sub><sup>details [on Confluence](https://docs.dbildungscloud.de/x/3QITD)</sup></sub>
+## Datasecurity <sub><sup>details [on Confluence](https://docs.dbildungscloud.de/x/lQITD)</sup></sub>
 
 <!--
   Notice about:
