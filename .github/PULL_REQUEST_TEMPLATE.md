@@ -17,8 +17,8 @@
 
 <!--
 Base links to copy
-- https://github.com/schul-cloud/schulcloud-server/pull/????
-- https://ticketsystem.schul-cloud.org/browse/BC-????
+- https://github.com/hpi-schul-cloud/schulcloud-server/pull/????
+- https://ticketsystem.dbildungscloud.de/browse/BC-????
 -->
 
 ## Changes
@@ -29,7 +29,7 @@ Base links to copy
   Short notice if a ticket exists, more detailed if not
 -->
 
-## Datasecurity <sub><sup>details [on Confluence](https://docs.dbildungscloud.de/x/lQITD)</sup></sub>
+## Datasecurity
 
 <!--
   Notice about:
@@ -73,7 +73,3 @@ Base links to copy
 - [ ] All points were discussed with the ticket creator, support-team or product owner. The code upholds all quality guidelines from the PR-template.
 
 > Notice: Please remove the WIP label if the PR is ready to review, otherwise nobody will review it.
-
-### Link to Definiton of Done
-
-More and detailed information on the _definition of done_ can be found [on Confluence](https://docs.dbildungscloud.de/x/mAITD)
